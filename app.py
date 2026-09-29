@@ -13,7 +13,7 @@ from typing import Final
 
 APP_HOST: Final = "0.0.0.0"
 APP_PORT: Final = 8080
-APP_VERSION: Final = "1"
+APP_VERSION: Final = "2"
 
 
 class HelloHandler(BaseHTTPRequestHandler):
