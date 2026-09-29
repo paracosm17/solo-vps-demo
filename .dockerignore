@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+test_app.py
+README.md
+.git/
+.github/
+.env
+.env.*
+.venv/
+.ruff_cache/
+scripts/
+tests/
+requirements-dev.txt
